@@ -1,0 +1,12 @@
+{
+  "name": "bookshop-client",
+  "version": "1.0.0",
+  "description": "Client implementing bookshop assignment tasks using Axios",
+  "main": "bookClient.js",
+  "scripts": {
+    "start": "node bookClient.js"
+  },
+  "dependencies": {
+    "axios": "^1.5.0"
+  }
+}
